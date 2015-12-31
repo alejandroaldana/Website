@@ -534,5 +534,28 @@
             "lon": 37.2153419,
             "lat": -2.0673396
         }
-    }
+		
+    },
+	{
+        "id": 24,
+        "msp": true,
+        "name": "Alejandro",
+        "lastname": "Aldana Garzón",
+        "years": [
+            2015
+        ],
+        "city": "Madrid",
+        "university": "Universidad Carlos III",
+        "email": "alejandroaldana@outlook.com",
+        "skills": "Web, MVC, IIS, BI, cloud, C#, Java, C",
+        "twitter": "alejo_aldana_13",
+        "linkedin": "jalejandroaldana",
+        "website": "http://bgait.com",
+        "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/089/0f2/3d3b943.jpg",
+        "thumbnail": "http://www.makeathumbnail.com/thumbnails/image440968.jpg",
+        "location": {
+            "lon": 40.539989,
+            "lat": -4.107364
+        }
+	}
 ]
